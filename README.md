@@ -2,7 +2,7 @@
   <img src="https://envs.sh/AMb.jpg" alt="VJ-Filter-Bot Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  Sexy Girl Bot
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
